@@ -10,3 +10,6 @@
 </p>
 
 pinguim.svg
+<p align="center">
+  <img src="./pinguim.svg" width="900">
+</p>
