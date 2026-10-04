@@ -1,8 +1,7 @@
 Olá, me chamo Douglas-Resende
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![Java](https://shields.io)
-![C](https://shields.io)
-![HTTP](https://shields.io)
+<img src="https://simpleicons.org" width="40" height="40" alt="HTML5" />
+<img src="https://simpleicons.org" width="40" height="40" alt="CSS3" />
+<img src="https://simpleicons.org" width="40" height="40" alt="JavaScript" />
+<img src="https://simpleicons.org" width="40" height="40" alt="Java" />
+<img src="https://simpleicons.org" width="40" height="40" alt="C" />
